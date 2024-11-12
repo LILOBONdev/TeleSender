@@ -18,7 +18,7 @@ except Exception as ex:
     print(f"ERROR: {ex}")
 ```
 > [!NOTE]
-> Для запуска программы рассльника не требуется Python. Если отсутствует файл api-ms-win-core-com-l1-1-0.dll - Попробуйте установить данный пакет. <br> <br>
+> Для запуска программы рассльника не требуется Python. Если отсутствует пакет api-ms-win-core-com-l1-1-0.dll - Попробуйте установить данный пакет. <br> <br>
 > Чтобы указать `API-ID`.`API-HASH` - нужно их получить [здесь](https://my.telegram.org/auth?to=apps).
 
 > [!NOTE]
